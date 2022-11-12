@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on  13th, Feb 2020
+@author: Akram Sheriff
+AWS IOT Cloud Architecture SMART  CITY  PARKING IOT USECASE - Writing  the IOT  Telemetry data in DynamoDB in key, Value pair format  - Function Handler 
+Logic
+"""
+
 console.log('Loading function');
 var AWS = require('aws-sdk');
 var dynamo = new AWS.DynamoDB.DocumentClient();
