@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on  March 6 10:11:12 2020
+@author: Akram Sheriff
+AWS IOT Cloud Architecture Diagram with different components in IOT Cloud  Data lake implementation".
+SMART  CITY  PARKING IOT USECASE
+"""
 var AWS = require('aws-sdk');
 AWS.config.region = 'us-west-1';
 
